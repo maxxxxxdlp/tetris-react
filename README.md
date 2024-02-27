@@ -4,7 +4,7 @@ A Tetris game with 3 unique maps.
 
 [Trailer](https://youtu.be/LlDgH-NZ3KE)
 
-[Play online](https://bit.ly/-tetris-react)
+[Play online](https://maxpatiiuk.github.io/tetris-react/)
 
 ## Scenery World:
 
